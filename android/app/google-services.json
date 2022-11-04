@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "623476426090",
+    "project_id": "flash-chat-ad9e1",
+    "storage_bucket": "flash-chat-ad9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623476426090:android:03be684be8ef424877d113",
+        "android_client_info": {
+          "package_name": "co.jdouglas.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623476426090-d5ns90uo0hkerbrl86o71kjn5m37hfpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZt9hWdf-GsgmbNw6YDFuHHpfoAmIrZqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623476426090-d5ns90uo0hkerbrl86o71kjn5m37hfpe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623476426090-5hnm752671n92nf225bfvh7uh23snjac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.jdouglas.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
